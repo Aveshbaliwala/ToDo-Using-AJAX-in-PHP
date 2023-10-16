@@ -1,0 +1,65 @@
+.first_container
+{
+	height: 500px;
+	width: 48%;
+	
+	float: left;
+
+}
+.Container
+{
+	width: 100%;
+	background-color: darkgray;
+	margin-top: 10px;
+	padding-top: 5px;
+	font-family: poppins;
+}
+.Container .row h2
+{
+	margin-top: 5px;
+	text-align: center;
+}
+.Container .row .task_input
+{
+	align-content: center;
+	width: 50%;
+	font-size: 18px;
+	margin: 0px 0px 20px 150px;
+}
+.Container .row .add_btn
+{
+	width: 10%;
+	font-size: 18px;
+	border-radius: 5px;
+	background-color: darkgray;
+	color: white;
+}
+.Container .submit_data
+{
+	width: 50%;
+	font-size: 18px;
+	border-radius: 5px;
+	background-color: darkgray;
+	color: white;
+	margin: 0px 0px 20px 180px;
+}
+.tbl_data
+{
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-family: poppins;
+}
+.tbl_data th
+{
+	background-color:black;
+	color: white;
+}
+.second_container
+{
+	height: 500px;
+	width: 48%;
+	float: right;
+	border: 2px solid black; 
+}
